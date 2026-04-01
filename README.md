@@ -2,11 +2,11 @@
 <div align="center">
   <h1>Hey, I'm Sujal Gupta 👋</h1>
   <p><em>XR Developer · Spatial Computing Enthusiast · Pre-final year @ IIITDM Chennai</em></p>
-  <a href="https://sujal.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-sujal.dev-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://a-vrs.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-sujal.dev-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/sujal-gupta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sujal%20Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sujal-gupta-597b02375/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sujal%20Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <a href="mailto:sujal@example.com"><img src="https://img.shields.io/badge/Email-sujal%40email.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:guptasujal1205@gmail.com"><img src="https://img.shields.io/badge/Email-sujal%40email.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </div>
 
 ---
