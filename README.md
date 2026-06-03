@@ -14,7 +14,7 @@
 
 ## About Me
 
-I build things at the intersection of AI and spatial computing. On the AI side I work with LLMs, vector databases, and agentic pipelines. On the XR side I build AR/VR applications using Unity, ARFoundation, and WebAR tools. Both areas interest me and I'm actively working on projects that bring them together.
+I build things at the intersection of AI and spatial computing. On the AI side I work with Computer Vision, agentic AI, and LLMs(exploring). On the XR side I build AR/VR applications using Unity, ARFoundation, and WebAR tools. Both areas interest me and I'm actively working on projects that bring them together.
 
 Currently a pre-final year B.Tech student at **IIITDM Chennai** with a CGPA of 8.47.
 
